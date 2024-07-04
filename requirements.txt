@@ -1,0 +1,7 @@
+beautifulsoup4==4.12.3
+bs4==0.0.2
+lxml==5.2.2
+regex==2024.5.15
+requests==2.32.3 
+selenium==4.22.0
+urllib3==2.2.2
