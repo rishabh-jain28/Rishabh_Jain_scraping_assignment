@@ -1,0 +1,5 @@
+For validation another approach would be adding unit test cases aso that we can check return type of values, 
+checking between "axpeacte" and "actual" json
+
+adding those unit test aes in ci/cd pipeline so that before merging any changes we can make sure all the unit 
+test cases are getting passed
