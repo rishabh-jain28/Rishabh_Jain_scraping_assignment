@@ -1,0 +1,39 @@
+{
+    "brand": "Foreign Fortune Clothing",
+    "description": "Our sunglasses are great for all occasions! We have two sizes with our logo plated on the side.",
+    "image": "http://foreignfortune.com/cdn/shop/products/180C79F0-BFD4-4DD6-B83E-E273562C497E_1200x1200.jpg?v=1676594872",
+    "images": [
+        "http://foreignfortune.com/cdn/shop/products/180C79F0-BFD4-4DD6-B83E-E273562C497E_110x110@2x.jpg?v=1676594872",
+        "http://foreignfortune.com/cdn/shop/products/B476AF66-D357-4790-92C9-6C1247AF30F0_110x110@2x.jpg?v=1676594872",
+        "http://foreignfortune.com/cdn/shop/products/8D93107C-947E-4E93-85D4-4A27D4A71941_110x110@2x.jpg?v=1676594872",
+        "http://foreignfortune.com/cdn/shop/products/813D0917-4ED8-40F7-ACFD-CD72B45BE696_110x110@2x.jpg?v=1676594872"
+    ],
+    "models": [
+        {
+            "variants": [
+                {
+                    "id": 42451648086209,
+                    "image": "http://foreignfortune.com/cdn/shop/products/180C79F0-BFD4-4DD6-B83E-E273562C497E_1200x1200.jpg?v=1676594872",
+                    "price": 200.0,
+                    "Size": "Small"
+                },
+                {
+                    "id": 42451648118977,
+                    "image": "http://foreignfortune.com/cdn/shop/products/180C79F0-BFD4-4DD6-B83E-E273562C497E_1200x1200.jpg?v=1676594872",
+                    "price": 250.0,
+                    "Size": "Large"
+                }
+            ]
+        }
+    ],
+    "price": 200.0,
+    "prices": [
+        200.0
+    ],
+    "sale_prices": [
+        200.0
+    ],
+    "title": "Foreign Fortune Shades",
+    "url": "https://foreignfortune.com/products/foreign-fortune-shades",
+    "product_id": 7560067809473
+}
